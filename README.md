@@ -247,4 +247,4 @@ This repository serves as the official landing page for MagicDirector. The softw
 **Get the most recent version of MagicDirector today!**
 
 ---
-**Last updated:** 2026-11-07 09:27:26 UTC
+**Last updated:** 2026-11-07 15:59:11 UTC
